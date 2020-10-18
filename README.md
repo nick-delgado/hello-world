@@ -1,9 +1,12 @@
 # hello-world
 
-This is my attempt at learning new technologies and getting experience. Hopefully this will help me expand my skills and teach me new things. 
-So many things I want to get into and gain experience in: C programming, Java, Android app development, driver programming, assembly language, MEAN stack, Linux compiling and many others...
-+ Containers (Docker)
+My list of "hello world"(s) projects I am intersted in:
+
+So many things and areas I want to get into and gain more experience in:
++ Android app development
++ Driver programming
++ Assembly language
++ Linux kernel
 + Container configuration (Vagrant)
 + OpenCV
-+ AWS
 + Swift/Objective-C
